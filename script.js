@@ -1,1 +1,1 @@
-script.js
+alert("Welcome to sigma web Development Course")
